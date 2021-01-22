@@ -1,5 +1,5 @@
 def input(x):
-   x = 6*x
+   x = 56* x + 23
    return x
 
 if __name__ == '__main__':
