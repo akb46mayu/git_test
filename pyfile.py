@@ -1,5 +1,5 @@
 def input(x):
-   x = 3*x
+   x = 6*x
    return x
 
 if __name__ == '__main__':
