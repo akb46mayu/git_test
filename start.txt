@@ -1,5 +1,5 @@
 test git start demo
 
 I change it today
-
-
+i this work has been changed from the git loc old repo from 4/5/2021
+def new function added to the avg_loc branch
