@@ -1,6 +1,0 @@
-this is a 2nd file hhh
-
-
-def def :wq
-
-
